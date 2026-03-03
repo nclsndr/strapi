@@ -106,8 +106,8 @@
   "devDependencies": {
     "@strapi/admin": "5.37.1",
     "@strapi/database": "5.37.1",
-    "@testing-library/react": "16.3.0",
-    "@types/jest": "29.5.2",
+    "@testing-library/react": "catalog:",
+    "@types/jest": "catalog:",
     "@types/lodash": "^4.14.191",
     "@types/prismjs": "1.26.5",
     "koa-body": "6.0.1",
